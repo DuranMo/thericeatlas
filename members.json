@@ -26,5 +26,12 @@
     "degree": "Master of Computer Science",
     "year": 2026,
     "url": "https://yarikama.com/"
+  },
+    {
+    "netid": "jw287",
+    "name": "Fred Wen",
+    "degree": "Computer Science",
+    "year": 2027,
+    "url": "https://portfolio-sepia-tau-78.vercel.app/"
   }
 ]
