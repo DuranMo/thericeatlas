@@ -21,7 +21,9 @@ The unofficial webring for students at Rice University.
 
 ## Widget
 
-Replace `NETID` with your Rice NetID.
+Below are a few code examples to help you add a widget onto your website (you can design it however you want, though!)
+
+*Note: Replace `NETID` with your Rice NetID.*
 
 ### HTML
 
